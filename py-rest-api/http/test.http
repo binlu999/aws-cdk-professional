@@ -1,0 +1,8 @@
+
+@url = https://xgar09yxyk.execute-api.us-east-1.amazonaws.com/prod
+
+GET {{url}}/empl?id=123
+
+
+
+#
